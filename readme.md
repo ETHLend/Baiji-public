@@ -1,5 +1,9 @@
 # Announcing ETHLend Baiji Bug Bounty campaign
 
+
+
+
+
 ## Baiji Bug Bounty Campaign Conditions:
 
 - Baiji test platform is hosted in Kovan network, all the Ethereum and tokens are for testing purpose and have no value. 
