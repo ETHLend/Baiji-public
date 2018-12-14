@@ -1,6 +1,6 @@
-*Announcing ETHLend Baiji Bug Bounty campaign
+# Announcing ETHLend Baiji Bug Bounty campaign
 
-**Baiji Bug Bounty Campaign Conditions:
+## Baiji Bug Bounty Campaign Conditions:
 
 - Baiji test platform is hosted in Kovan network, all the Ethereum and tokens are for testing purpose and have no value. 
 - Do not open issues for high or critical severity issues, this issues must be communicated privately by sending an email to support@ethlend.io with the title 'Baiji high severity issue'. Public disclosure of a high severity vulnerability would make it inelegible for a bounty.
