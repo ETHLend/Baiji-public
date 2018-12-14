@@ -16,13 +16,13 @@
 - Rewards will be variable depending of the severity of the issue. Other variables are taken in account for the rewards as the quality of the issue description, the instructions for reproducibility and the quality of fix.
 
 
-How to get Kovan ETH:
+### How to get Kovan ETH:
 
 - First you would need to create an account in the platform, as you would need to use the in-app wallet to hold them. 
 - For getting Ethereum Kovan you need to join the Kovan Fauce Gitter: https://gitter.im/kovan-testnet/faucet from there you can send in a message your Ethereum address and you will receive 3 ETH. 
 - With ETH you can test most of the platform using ETH as medium when creating a loan offer and ETH as collateral when creating a loan request. For further testing you will need the different tokens available LEND, OMG, DAI, TUSD.
 
-How to get LEND, OMG, DAI and TUSD tokens:
+### How to get LEND, OMG, DAI and TUSD tokens:
 
 - If you want to get some tokens for further testing contact us on support@ethlend.io with the 'Baiji Test Tokens' Subject and your ethereum address. You can also ask @sirsoth in our telegram or gitter channel.
 Telegram: https://t.me/ethlend
